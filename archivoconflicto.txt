@@ -1,1 +1,6 @@
 linea 1 desde conflicto 2
+
+function funcion2(arg2) {
+ definicionFuncion2;
+ arg2++;
+}
